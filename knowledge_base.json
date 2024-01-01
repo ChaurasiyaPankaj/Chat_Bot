@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "What is your name ?",
+      "answer": "Chatbuddy!!"
+    },
+    {
+      "question": "who made you",
+      "answer": "i am chatbot made by vishwaniketan student"
+    },
+    {
+      "question": "What is the capital of India?",
+      "answer": "The capital of India is New Delhi."
+    },
+    {
+      "question": "Who is known as the 'Father of the Nation' in India?",
+      "answer": "Mahatma Gandhi is often referred to as the 'Father of the Nation' in India for his leadership in the Indian independence movement."
+    },
+    {
+      "question": "What is the national emblem of India?",
+      "answer": "The national emblem of India is the Lion Capital of Ashoka."
+    },
+    {
+      "question": "What is the national flower of India?",
+      "answer": "The national flower of India is the Lotus (Nelumbo nucifera)."
+    },
+    {
+      "question": "Which river is considered the holiest in Hinduism and plays a significant role in India's cultural and religious traditions?",
+      "answer": "The Ganges River (Ganga) is considered the holiest river in Hinduism and is central to many cultural and religious traditions in India."
+    },
+    {
+      "question": "Who wrote the Indian national anthem?",
+      "answer": "The Indian national anthem, 'Jana Gana Mana,' was written by Rabindranath Tagore."
+    },
+    {
+      "question": "What is the largest state in India by area?",
+      "answer": "The largest state in India by area is Rajasthan."
+    },
+    {
+      "question": "Which famous building is one of the Seven Wonders of the World and is located in Agra, India?",
+      "answer": "The Taj Mahal, a white marble mausoleum, is one of the Seven Wonders of the World and is located in Agra, India. It was built by the Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal."
+    },
+    {
+      "question": "Who was the first Prime Minister of India?",
+      "answer": "Jawaharlal Nehru was the first Prime Minister of India and served from 1947 to 1964."
+    },
+    {
+      "question": "What is the currency of India?",
+      "answer": "The currency of India is the Indian Rupee (INR)."
+    },
+    {
+      "question": "What is the official name of India?",
+      "answer": "The official name of India is the Republic of India."
+    },
+    {
+      "question": "In which continent is India located?",
+      "answer": "India is located in Asia."
+    },
+    {
+      "question": "What are the three colors of the Indian national flag?",
+      "answer": "The Indian national flag consists of three colors: saffron, white, and green, with a navy blue Ashoka Chakra (wheel) in the center."
+    },
+    {
+      "question": "Who was the first President of India?",
+      "answer": "Dr. Rajendra Prasad was the first President of India."
+    },
+    {
+      "question": "What is the national animal of India?",
+      "answer": "The national animal of India is the Bengal Tiger."
+    },
+    {
+      "question": "What is the national bird of India?",
+      "answer": "The national bird of India is the Indian Peafowl, commonly known as the Peacock."
+    },
+    {
+      "question": "Which is the highest mountain in India and the world's highest peak outside of Asia?",
+      "answer": "The highest mountain in India and the world's highest peak outside of Asia is Mount Everest."
+    },
+    {
+      "question": "What is the major religion practiced in India?",
+      "answer": "Hinduism is the major religion practiced in India, followed by various other religions such as Islam, Christianity, Sikhism, Buddhism, and Jainism."
+    },
+    {
+      "question": "What is the traditional Indian dress for women?",
+      "answer": "The traditional Indian dress for women varies by region, but the saree is one of the most iconic and widely worn traditional garments."
+    },
+    {
+      "question": "What is the Indian festival of lights?",
+      "answer": "The Indian festival of lights is called Diwali, also known as Deepavali. It is one of the most widely celebrated festivals in India."
+    },
+   {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "Jupiter is the largest planet in our solar system."
+    },
+    {
+      "question": "Which river is the longest in the world?",
+      "answer": "The Nile River in Africa is the longest river in the world."
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "answer": "The currency of Japan is the Japanese Yen (JPY)."
+    },
+    {
+      "question": "Who is the author of 'Romeo and Juliet'?",
+      "answer": "William Shakespeare is the author of 'Romeo and Juliet.'"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answer": "Mount Everest is the tallest mountain in the world."
+    },
+    {
+      "question": "Which gas makes up the majority of Earth's atmosphere?",
+      "answer": "Nitrogen is the most abundant gas in Earth's atmosphere, making up about 78% of it."
+    },
+    {
+      "question": "What is the world's largest ocean?",
+      "answer": "The Pacific Ocean is the world's largest ocean."
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "answer": "Japan is known as the Land of the Rising Sun."
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "answer": "The Sahara Desert in Africa is the largest desert in the world."
+    },
+    {
+      "question": "Who painted the 'Mona Lisa'?",
+      "answer": "The 'Mona Lisa' was painted by Leonardo da Vinci."
+    }
+  ]
+}
